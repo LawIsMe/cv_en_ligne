@@ -1,0 +1,13 @@
+body{
+    background-color:cornsilk;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+p, ul{
+    font-family: 'Times New Roman', Times, serif;
+}
